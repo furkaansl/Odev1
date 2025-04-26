@@ -1,0 +1,50 @@
+package com.example.odev1
+
+fun main() {
+    var sehir = "İstanbul"
+    var ulke = "Türkiye"
+    var telefon = "+90 555 123 4567"
+    var postaKodu = "34000"
+    var email = "example@example.com"
+    var meslek = "Yazılım Geliştirici"
+    var stokMiktari = 150
+    var musteriAdi = "Furkan Salman"
+    var bakiye = 2599.75
+    var dogumGunu = "1999-08-15"
+    var maas = 25000
+    var medeniDurum = "Bekar"
+    var urunYorum = "Harika ürün!"
+    var odemeTarihi = "2025-04-25"
+    var odeme = 500.0
+    var siparisAdeti = 3
+    var arabaModeli = "Tesla Model 3"
+    var kitapAdi = "Suç ve Ceza"
+    var yayinlamaTarihi = "1866-01-01"
+    var indirimMiktari = 15.5
+    var odaSayisi = 2
+    var enlem = 41.0082
+    var boylam = 28.9784
+    val urunAdi = "Akıllı Saat"
+    val yemekFiyati = 120.5
+    val marka = "Apple"
+    val muzikAdi = "Bohemian Rhapsody"
+    val videoSuresi = "2:45"
+    val urunPuani = 4.8
+    val resimAdi = "dog_photo.jpg"
+    val dosyaFormati = "JPEG"
+    val renk = "Mavi"
+    val renkKodu = "#0000FF"
+    val telefonModeli = "iPhone 14 Pro"
+    val ekranBoyutu = 6.7
+    val agirlik = 180.5
+    val ulusalGun = "29 Ekim"
+    val tatilGunu = "1 Ocak"
+    val rezervasyonTarihi = "2025-07-20"
+    val sokakAdi = "Atatürk Caddesi"
+    val otobusHatti = "34A"
+    val kalanDakika = 5
+    val takipKodu = "TR123456789"
+    val kuponSuresi = 30 // gün
+    val kuponKodu = "INDIRIM50"
+    val faturaAdresi = "Beşiktaş, İstanbul, Türkiye"
+}
